@@ -1,5 +1,3 @@
-# Google-Map-Api-Key-Tester-
-
 # Google Maps API Key Tester
 
 A Bash tool for **bug bounty hunters, penetration testers, and developers** to quickly identify **exposed or valid Google Maps API keys** and detect which Google Maps Platform services are enabled.
